@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "adpprenticeaihomedesign-stage"
-  }
+    "default": "adpprenticeaihomedesign-main",
+    "main": "adpprenticeaihomedesign-stage"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
